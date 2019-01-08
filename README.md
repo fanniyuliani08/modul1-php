@@ -1,7 +1,7 @@
 # modul1-php
 
 latihan1
-![alt text](https://github.com/fanniyuliani08/modul1-php/blob/master/latihan1.png)\
+![alt text](https://github.com/fanniyuliani08/modul1-php/blob/master/latihan1.png)
 
 latihan2
 ![alt text](https://github.com/fanniyuliani08/modul1-php/blob/master/latihan2.png)
